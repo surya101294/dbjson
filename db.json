@@ -1,0 +1,14 @@
+{ "data" : [
+    { "id":1,
+      " title": "Express Trim",
+      " 3": 4.83,
+      " 4": "(9.1K)",
+      "price": 399,
+      " 6": "20 mins",
+      "description": "A quick trim to remove split ends while minimally reducing hair length",
+      " 8": "Blowdry not included",
+      " 9": "View details",
+      "image": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/w_96,dpr_2,fl_progressive:steep,q_auto,c_limit/images/growth/luminosity/1650711648402-3502ab.jpeg",
+      " 10": "Add"
+    }]
+}
